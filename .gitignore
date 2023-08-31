@@ -1,0 +1,6 @@
+.env.local.yaml
+db/database.yaml
+t.*
+.idea/
+.DS_Store
+.vscode
