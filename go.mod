@@ -1,4 +1,4 @@
-module github.com/arrowltd/slot_backend
+module github.com/mplulu/request_blocker
 
 go 1.20
 

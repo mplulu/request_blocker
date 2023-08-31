@@ -9,9 +9,9 @@ import (
 
 	"time"
 
-	"github.com/arrowltd/slot_backend/env"
 	"github.com/mplulu/log"
 	"github.com/mplulu/rano"
+	"github.com/mplulu/request_blocker/env"
 
 	"github.com/labstack/echo/v4"
 )

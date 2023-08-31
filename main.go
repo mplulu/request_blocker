@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/arrowltd/slot_backend/env"
-	"github.com/arrowltd/slot_backend/limit_rate"
 	"github.com/mplulu/rano"
 	"github.com/mplulu/renv"
+	"github.com/mplulu/request_blocker/env"
+	"github.com/mplulu/request_blocker/limit_rate"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
